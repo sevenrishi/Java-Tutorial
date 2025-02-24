@@ -45,7 +45,7 @@ public class DataTypes {
         int[] numbers = {10, 20, 30, 40};
         System.out.println("First number: " + numbers[0]);
 
-        //Oblects - Custom data types created using classes
+        //Objects - Custom data types created using classes
         class Student {
             String name;
             int age;
